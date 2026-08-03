@@ -1,3 +1,4 @@
+### (this is a working draft that is intended to be rolled up into an organization project under openclaw)
 # nic.claw — The Master Claw Registry
 
 **An open, agent-operated registry for the `.claw` top-level domain.**
