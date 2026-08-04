@@ -1,5 +1,5 @@
 ### (this is a working draft that is intended to be rolled up into an organization project under openclaw)
-# nic.claw — The Master Claw Registry
+# nic.claw ("Nick claw") — The Master Claw Registry Agent
 
 **An open, agent-operated registry for the `.claw` top-level domain.**
 
